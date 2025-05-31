@@ -18,7 +18,7 @@ This project is a minimal implementation of a **Retrieval-Augmented Generation (
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/im-adamya-vatsalya-sharma-09/Mini-Rag-Model-Project/tree/main
 cd your-repo-name
 
 ### 2. Install Required Libraries
